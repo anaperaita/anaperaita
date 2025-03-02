@@ -16,7 +16,7 @@ Botanical Therapist: My plants get more git log updates than my repos. 🌱🔍
 
 Salsa Syntax: Coding by day, spinning by night—my IDE autocompletes and counts beats. 💃🔥
 
-Yoga Yoda: Mastered the art of debugging in downward dog. 🧘♀️🐛 (“Breathe through the segfault…”)
+Yoga Yoda: Mastered the art of debugging in Tree pose. 🧘🌳 (“Balancing feature requests like a pro.”)
 
 🚀 Collab Vibes:
 
@@ -28,9 +28,11 @@ Teamwork = 50% PR reviews, 50% sharing obscure tea facts, 100% ”Wait, that act
 
 Ping me like a GET request to my soul 📡🍵
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aperaita/)
+[![X](https://img.shields.io/badge/X-Profile-black)](https://x.com/anaperaita)
+
 Pro Tip: Send rare tea memes or salsa playlists for a VIP response. 🎶🌿
 
 ⚠️ Fun Fact: I debug with a teapot in one hand and a keyboard in the other. The secret? Green tea and sheer audacity. 🫖💻
 
-🌱 Let’s code mindfully, laugh recklessly, and keep our indentation zen!
-Compiling serenity since [insert git commit date here]. 🙏✨
+🌱 Let’s code mindfully, laugh recklessly, and keep our indentation zen! 🙏✨
